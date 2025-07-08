@@ -17,10 +17,10 @@ I'm a frontend-focused developer currently pursuing my studies. I love creating 
 
 ## 🌟 Featured Projects
 
-### 🎬 [MoviePedia](https://github.com/Ambikaa29/MoviePedia-Movie-Search-app)  
+### 🎬 [MoviePedia](https://github.com/Ambikaa29/MoviePedia-Movie-Search-app.git)  
 A responsive movie search web app powered by IMDb & TMDb APIs. Search by genre, view trailers, and create a wishlist.
 
-### 🎉 [Lucky Draw System – IMC Indore](https://github.com/Ambikaa29/Lucky-Draw-Website)  
+### 🎉 [Lucky Draw System – IMC Indore](https://github.com/Ambikaa29/Lucky-Draw-Website.git)  
 A React-based web app for IMC Indore that fairly selects winners from a database — used in real-life lucky draw events.
 
 ---
